@@ -17,9 +17,9 @@
 <p align="left">
 <a href="https://twitter.com/empire networks group" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="empire networks group" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/cornel angwenyi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cornel angwenyi" height="30" width="40" /></a>
-<a href="https://fb.com/cornel angwenyi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cornel angwenyi" height="30" width="40" /></a>
-<a href="https://instagram.com/empire networks group" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="empire networks group" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/empire networks group" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="empire networks group" height="30" width="40" /></a>
+<a href="https://www.facebook.com/lenny.flame.92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cornel angwenyi" height="30" width="40" /></a>
+<a href="https://www.instagram.com/empirenetworksgroup?igsh=bmtuaHRyamM4cTE3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="empire networks group" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@empirenetworksgroup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="empire networks group" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
